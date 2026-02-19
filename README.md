@@ -1,6 +1,6 @@
 # Bitcoin-Inflation Mixed-Frequency VAR
 
-Replication code for Chapter 4 of *[PhD Thesis Title — Placeholder]*.
+Replication code for Chapter 4 of *Bitcoin in the Macroeconomic Landscape: Price Determinants, Regime Dynamics, and Volatility Modelling*.
 
 ## Background
 
@@ -52,4 +52,4 @@ ch4_mfvar/
 
 ## Thesis Reference
 
-Chapter 4: *[Chapter Title — Placeholder]*
+Chapter 4: *Bitcoin and Inflation Dynamics: A Mixed-Frequency VAR Analysis*
